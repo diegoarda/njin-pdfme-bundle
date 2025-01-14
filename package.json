@@ -11,7 +11,8 @@
   "dependencies": {
     "@pdfme/common": "latest",
     "@pdfme/generator": "latest",
-    "@pdfme/schemas": "latest"
+    "@pdfme/schemas": "latest",
+    "@pdfme/ui": "latest"
   },
   "devDependencies": {
     "typescript": "^4.0.0",

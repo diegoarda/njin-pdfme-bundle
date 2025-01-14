@@ -8,6 +8,7 @@ export default defineConfig({
       entry: 'src/main.ts',
       name: 'PDFMe',
       fileName: 'pdfme',
+      formats: ['es', 'cjs'],
     },
     rollupOptions: {
       input: 'src/main.ts',
